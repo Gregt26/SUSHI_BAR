@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Gregt26/SUSHI_BAR/issues"
   },
-  "homepage": "https://gregt26.githob.io/SUSHI_BAR",
+  "homepage": "https://gregt26.github.io/SUSHI_BAR",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
