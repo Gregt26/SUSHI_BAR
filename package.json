@@ -1,0 +1,23 @@
+{
+  "name": "sushi_bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregt26/SUSHI_BAR.git"
+  },
+  "keywords": [],
+  "author": "Greg Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregt26/SUSHI_BAR/issues"
+  },
+  "homepage": "https://gregt26.githob.io/SUSHI_BAR",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
