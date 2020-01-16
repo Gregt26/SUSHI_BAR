@@ -2,7 +2,7 @@
   "name": "sushi_bar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "main.js",
   "scripts": {
     "deploy": "gh-pages-deploy"
   },
