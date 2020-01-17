@@ -2,9 +2,9 @@
   "name": "sushi_bar",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages "
   },
   "repository": {
     "type": "git",
