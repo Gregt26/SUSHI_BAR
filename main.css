@@ -8,7 +8,7 @@ h2 {
 }
 /* Landing Page */
 #landing-page {
-    background-image: url(/images/landingPage1.jpg);
+    background-image: url(images/landingPage1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
