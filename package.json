@@ -18,6 +18,7 @@
   },
   "homepage": "https://gregt26.github.io/SUSHI_BAR",
   "dependencies": {
+    "deploy": "^1.0.3",
     "gh-pages": "^2.2.0"
   }
 }
